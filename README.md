@@ -112,8 +112,7 @@ Use Expo Go (Android/iOS) to scan the QR and run it on your device.
 ---
 
 ## 👤 Author
-
-Made by the team **Sandeep Kumar Yadav **   **Vishal Rai**    **Abhinadan Gupta**
+**Abhinadan Gupta**
 
 ---
 
